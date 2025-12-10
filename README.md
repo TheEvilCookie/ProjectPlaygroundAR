@@ -1,1 +1,2 @@
-# Hi Hello World! :3
+# Project Playground - Творческая AR песочница
+Project Playground
