@@ -21,8 +21,20 @@ PrefabInstance:
       value: CubeVariant
       objectReference: {fileID: 0}
     - target: {fileID: 776242965031131868, guid: ebd7292e888c84f05924605e51048072, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -5495902117074765545, guid: adcae0f4565fbf749abc8933b16c59ab, type: 3}
+    - target: {fileID: 776242965031131868, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_Convex
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2183264984513196492, guid: ebd7292e888c84f05924605e51048072, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -5495902117074765545, guid: adcae0f4565fbf749abc8933b16c59ab, type: 3}
+    - target: {fileID: 2590468904546663110, guid: ebd7292e888c84f05924605e51048072, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 3471538223933167219, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -75,6 +87,10 @@ PrefabInstance:
     - target: {fileID: 4719697340578916628, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_IsKinematic
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6039300071078109978, guid: ebd7292e888c84f05924605e51048072, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 7357653953804275573, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_MinScale
