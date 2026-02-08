@@ -8,6 +8,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2180664787959293527, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368844185009992940, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 4183465048131118092, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -69,6 +77,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6909000297785399691, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 6909000297785399691, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
       propertyPath: m_Convex
       value: 1
       objectReference: {fileID: 0}
@@ -80,8 +92,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: DebugCubeVariant
       objectReference: {fileID: 0}
+    - target: {fileID: 8644809090217711050, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3132565783757306887, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
